@@ -1,7 +1,7 @@
 # 🎙️ Projeto: Podcast Gerado por I.A.s
 
 **Descrição**
-Projeto que automatiza a criação de um podcast usando ferramentas de inteligência artificial e uma esteira de prompts para cada etapa do processo criativo — desde o roteiro até a capa e a edição de áudio.
+Projeto que automatiza a criação de um podcast usando ferramentas de inteligência artificial e uma esteira de prompts para cada etapa do processo criativo desde o roteiro até a capa e a edição de áudio.
 
 **Objetivo**
 Demonstrar um fluxo prático e reprodutível para gerar conteúdo de áudio com qualidade profissional usando IAs: criação de roteiro, síntese de voz, geração de artes e edição final.
