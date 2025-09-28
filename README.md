@@ -4,6 +4,7 @@
 Quer criar um podcast incrível sem gravar nada? Este projeto faz exatamente isso! Automatiza todo o processo de criação de um podcast usando Inteligência Artificial: do roteiro à capa, passando pela voz e edição de áudio. Uma verdadeira fábrica de podcasts em poucos cliques!
 
 🎯 Objetivo
+
 💡 Mostrar um fluxo prático, divertido e totalmente reprodutível para gerar podcasts de qualidade profissional usando IAs:
 
 ✍️ Roteiros envolventes
