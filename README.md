@@ -22,17 +22,12 @@ Roteiro: Crie textos envolventes com ChatGPT
 
 Arte (capas): Gere imagens incríveis com MidJourney
 
-Edição: Finalize o áudio e ajuste cada detalhe com CapCut
+💻 Tecnologias utilizadas no projeto
 
-💻 Tecnologias Usadas
+- [ChatGPT](https://chat.openai.com)
+- [MidJourney](https://www.midjourney.com)
+- [ElevenLabs](https://elevenlabs.io)
 
-ChatGPT
-
-ElevenLabs
-
-MidJourney
-
-CapCut
 
 ⚡ Como Executar (Resumo Rápido)
 
