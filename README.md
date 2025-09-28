@@ -12,11 +12,12 @@ Demonstrar um fluxo prático e reprodutível para gerar conteúdo de áudio com 
 3. Criação de artes (capas) com Midjourney;
 4. Edição e finalização do áudio com CapCut.
 
-**Tecnologias / Ferramentas**
-- ChatGPT
-- ElevenLabs
-- Midjourney
-- CapCut
+💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com)
+- [MidJourney](https://www.midjourney.com)
+- [ElevenLabs](https://elevenlabs.io)
+
 
 **Instruções de execução (resumido)**
 1. Use os prompts de roteiro no ChatGPT.
