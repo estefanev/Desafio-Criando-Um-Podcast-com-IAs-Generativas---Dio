@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="capa.png" alt="Capa do Podcast" width="300" style="border-radius: 50%;">
+</p>
+
+
+
 # 🎙️ Projeto: Podcast Gerado por I.A.s
 
 🚀 Descrição
